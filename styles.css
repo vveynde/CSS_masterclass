@@ -7,27 +7,11 @@ p a {
   color: rosybrown;
 }
 
-h1 {
+h1, h2, h3 {
   color: red;
 }
 
-h2 {
-  color: red;
-}
-
-h3 {
-  color: red;
-}
-
-h4 {
-  color: blue;
-}
-
-h5 {
-  color: blue;
-}
-
-h6 {
+h4, h5, h6 {
   color: blue;
 }
 
