@@ -1,0 +1,44 @@
+p {
+      color: green;
+      font-weight: bold;
+    }
+
+p a {
+  color: rosybrown;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+h4 {
+  color: blue;
+}
+
+h5 {
+  color: blue;
+}
+
+h6 {
+  color: blue;
+}
+
+.lavender-bg {
+  background-color: lavender
+}
+
+.underline-text {
+  text-decoration: underline
+}
+
+p:nth-child(odd) {
+  background: silver;
+}
